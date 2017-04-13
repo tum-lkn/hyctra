@@ -6,7 +6,9 @@ Matlab
 hcytra is the simulation source code for PreBOTRA and DABTRA paper as in 
 H. M. Gursu; M. Vilgelm; W. Kellerer; M. Reisslein, "Hybrid Collision
 Avoidance-Tree Resolution for M2M Random Access," in IEEE Transactions on
-Aerospace and Electronic Systems , vol.PP, no.99, pp.1-1
+Aerospace and Electronic Systems , vol.PP, no.99, pp.1-1.
+
+**Please cite the paper in case you use the simulator in your work.**
 
 Contibutors:
 H. Murat Gürsu
