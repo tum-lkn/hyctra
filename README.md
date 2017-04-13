@@ -1,13 +1,12 @@
 # hyctra
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%hcytra is the simulation source code for PreBOTRA and DABTRA paper as in 
-%Matlab is required to run the simulator
-%H. M. Gursu; M. Vilgelm; W. Kellerer; M. Reisslein, "Hybrid Collision
-%Avoidance-Tree Resolution for M2M Random Access," in IEEE Transactions on
-%Aerospace and Electronic Systems , vol.PP, no.99, pp.1-1
+hcytra is the simulation source code for PreBOTRA and DABTRA paper as in 
+Matlab is required to run the simulator
+H. M. Gursu; M. Vilgelm; W. Kellerer; M. Reisslein, "Hybrid Collision
+Avoidance-Tree Resolution for M2M Random Access," in IEEE Transactions on
+Aerospace and Electronic Systems , vol.PP, no.99, pp.1-1
 
-%Code by H. Murat Gürsu
+Code by H. Murat Gürsu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Inputs
 % "dist" is the distribution variable; 0 
