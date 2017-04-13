@@ -3,7 +3,7 @@
 %H. M. Gursu; M. Vilgelm; W. Kellerer; M. Reisslein, "Hybrid Collision
 %Avoidance-Tree Resolution for M2M Random Access," in IEEE Transactions on
 %Aerospace and Electronic Systems , vol.PP, no.99, pp.1-1
-
+% Please cite the paper in case you use the simulator in your work.
 %Code by H. Murat Gürsu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % "dist" is the distribution variable; 0 
